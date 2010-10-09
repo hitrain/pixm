@@ -1,0 +1,42 @@
+body{
+	padding: 10px;
+    margin: 0px;
+
+}
+div{
+	margin: 0px;
+	padding: 0px;
+
+}
+#center{
+	
+	border: solid 1px black;    
+	margin-top: 100px;
+	margin-left: 170px;
+	margin-right: 160px;
+	
+}
+
+
+
+#left{
+ 	border: solid 1px black;
+ 	width: 150px;
+ 	float: left;
+ 	height: ;
+ }
+
+#right{
+	border: solid 1px black;
+	width: 150px;
+	float: right;
+	display: inline;
+}
+
+#footer{
+	border: solid 1px black;
+	margin-top: 386px;
+
+}
+
+
